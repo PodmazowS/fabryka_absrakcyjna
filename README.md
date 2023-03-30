@@ -1,2 +1,2 @@
-# fabryka_absrakcyjna
+# Project Pattern
 Project pattern: Abstraction Factory
